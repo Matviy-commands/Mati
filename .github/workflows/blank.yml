@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+	     <meta http-equiv="Content-type" content="text/html"; charset="utf-8"/>
+
+     	<meta name="keywords" content=" syte, websyte"/>
+
+     	<meta name="deskription" content="My project with chemistry"/>
+
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico"/>
+	<title>Project</title>
+	<style>
+   a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   } 
+  </style>
+ </head>
+<body>
+	<header>
+<a href="index.html" title="На головну" id="logo"> My project with chemistri </a>
+<span class="contact"> <a href="about.html" title="information about us" 
+	>About chemistry </span><input type="text" class="field" 
+placeholder="search" /><span class="right"><span>
+<span class="contact"> <a href="reg.html" title="sign up">
+	Register</span>
+	<span class="contact"> 
+		<a href="auth.html" 
+		title="to came in" 
+	>Exit</span>
+	</header>
+	<footer>
+	<span class="left">  all rights reserved &copy; 2020 </span>
+	<span class="right">soc.buttun <img src="img/ds.png" alt="Discord" title="Discord"/></span>
+
+	</footer>
+	
+	<p></p>	
+
+	<h4></h4>
+
+	<STRONG></STRONG> 
+</body>
+</html>
